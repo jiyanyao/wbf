@@ -1,6 +1,6 @@
 {
   "name": "WBF Token List",
-  "logoURI": "https://wbfweb.oss-cn-shanghai.aliyuncs.com/uniswap/wbf.png",
+  "logoURI": "https://raw.githubusercontent.com/jiyanyao/wbf/main/wbf.png",
   "keywords": [
     "audited",
     "verified",
@@ -24,7 +24,7 @@
       "symbol": "WBFUSDT",
       "name": "WBF USD Coin",
       "decimals": 6,
-      "logoURI": "https://wbfweb.oss-cn-shanghai.aliyuncs.com/uniswap/tusdt.png",
+      "logoURI": "https://raw.githubusercontent.com/jiyanyao/wbf/main/tusdt.png",
       "tags": [
         "stablecoin"
       ]
