@@ -21,8 +21,8 @@
     {
       "chainId": 1,
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "symbol": "WBFUSDT",
-      "name": "WBF USD Coin",
+      "symbol": "USDT",
+      "name": "Tether USD",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/jiyanyao/wbf/main/tusdt.png",
       "tags": [
