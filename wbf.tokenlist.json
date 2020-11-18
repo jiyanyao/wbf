@@ -1,0 +1,38 @@
+{
+  "name": "WBF Token List",
+  "logoURI": "https://wbfweb.oss-cn-shanghai.aliyuncs.com/uniswap/wbf.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "WBFUSDT",
+      "name": "WBF USD Coin",
+      "decimals": 6,
+      "logoURI": "https://wbfweb.oss-cn-shanghai.aliyuncs.com/uniswap/tusdt.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
