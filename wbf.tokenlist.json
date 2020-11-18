@@ -28,6 +28,17 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3012ccb3116579c6ae46e6cf066594dbaac48e4",
+      "symbol": "WPT",
+      "name": "WPT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/jiyanyao/wbf/main/wpt.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
